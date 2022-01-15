@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Fatemeh Yazdanbakhsh / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Fatemeh Yazdanbakhsh"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://FatemehYb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "fatemehyb/FatemehYb.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &fatemeh_yb1 #&twitter
 facebook:
   username               :
   app_id                 :
@@ -80,10 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Fatemeh Yazdanbakhsh"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD. candidate computer graphics in university of Calgary
+  fatemeh.yazdanbakhsh@ucalgary.ca"
+  location         : "Canada"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -309,3 +310,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+github: [metadata]
