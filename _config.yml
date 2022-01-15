@@ -82,13 +82,12 @@ analytics:
 author:
   name             : "Fatemeh Yazdanbakhsh"
   avatar           : "https://FatemehYb.github.io/images/profile_picture.jpeg "
-  bio              : "PhD. candidate computer graphics in university of Calgary
-  fatemeh.yazdanbakhsh@ucalgary.ca"
+  bio              : "PhD. candidate computer graphics in university of Calgary fatemeh.yazdanbakhsh@ucalgary.ca"
   location         : "Canada"
-  employer         :
+  employer         : "University of Calgary"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=5twMd9EAAAAJ&hl=en"
-  email            :
+  email            :  "fatemeh.yazdanbakhsh@ucalgary.ca"
   researchgate     :  "https://www.researchgate.net/profile/Fatemeh-Yazdanbakhsh"
   uri              :
   bitbucket        :
