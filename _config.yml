@@ -85,7 +85,7 @@ author:
   bio              : "PhD. candidate computer graphics in university of Calgary fatemeh.yazdanbakhsh@ucalgary.ca"
   location         : "Canada"
   employer         : "University of Calgary"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=5twMd9EAAAAJ&hl=en"
   email            :  "fatemeh.yazdanbakhsh@ucalgary.ca"
   researchgate     :  "https://www.researchgate.net/profile/Fatemeh-Yazdanbakhsh"
