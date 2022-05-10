@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fatemeh Yazdanbakhsh / Academic Website"
+title                    : "Fatemeh Yazdanbakhsh / main page"
 title_separator          : "-"
 name                     : &name "Fatemeh Yazdanbakhsh"
 description              : &description "personal description"
