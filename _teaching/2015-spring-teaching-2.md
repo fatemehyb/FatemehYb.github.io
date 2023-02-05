@@ -1,6 +1,4 @@
 ---
-title: "Teaching experience 2"
----
 title: "Machine learning instructor"
 collection: teaching
 type: "ML Bootcamp"
