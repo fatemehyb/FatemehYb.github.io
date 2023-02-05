@@ -3,9 +3,9 @@ title: "Machine learning instructor"
 collection: teaching
 type: "ML Bootcamp"
 permalink: /teaching/2014-spring-teaching-1
-venue: "RoboGarden, Calgary, AB"
+venue: "RoboGarden"
 <!-- date: 2014-01-01 -->
-location: "City, Country"
+location: "Calgary, Alberta"
 ---
 <!-- Output copied to clipboard! -->
 
