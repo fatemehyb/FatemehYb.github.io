@@ -1,5 +1,5 @@
 ---
-title: "Machine learning instructor"
+title: "Computer science instructor"
 collection: teaching
 type: "Computer science teacher"
 permalink: /teaching/2014-spring-teaching-1
