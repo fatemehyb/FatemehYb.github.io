@@ -13,7 +13,7 @@ location: "City, Country"
 
 Yay, no errors, warnings, or alerts!
 
-Conversion time: 0.334 seconds.
+Conversion time: 0.321 seconds.
 
 
 Using this Markdown file:
@@ -26,10 +26,12 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β34
-* Sun Feb 05 2023 14:37:57 GMT-0800 (PST)
+* Sun Feb 05 2023 14:39:32 GMT-0800 (PST)
 * Source doc: Untitled document
 ----->
 
+
+_RoboGarden, Calgary, AB_
 
 **Web development Instructor**, April 2019 – Present
 
@@ -51,7 +53,7 @@ Conversion notes:
     * Clustering: KMeans, Mean Shift, Hierarchical
     * Recommender Systems: Content-Based and Popularity-Based
     * Deep Learning: CNN Based, VGG16, RNN Based
-This is a description of a teaching experience. You can use markdown like any other post.
+    * 
 
 <!-- Heading 1
 ======
